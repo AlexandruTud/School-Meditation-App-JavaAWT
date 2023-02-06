@@ -1,0 +1,4 @@
+Ionut.Tufan,10,i liked it a lot,Geometry
+Alex.Tudor,10,Nice!,Geometry
+Alex.Tudor,10,Fine!,Automata Theory
+Alex.Tudor,6,,Operating Sistems

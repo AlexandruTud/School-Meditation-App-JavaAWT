@@ -1,0 +1,6 @@
+Tufan Ionut,Matematica,4/May/2023,16:30,Sala 20,120,false
+Tufan,Fizica,2/Apr/2023,14:30,Sala 15,100,false
+Ionut.Tufan,Geometry,1/Jan/2023,14:00,Sala 10,100,false
+Alex.Tudor,Geometry,11/Mar/2024,17:30,Sala 20,150,false
+Alex.Tudor,Automata Theory,5/Feb/2023,14:00,Sala 10,100,false
+Alex.Tudor,Geometry,26/Sup/2023,15:00,Sala 15,100,false

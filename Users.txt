@@ -1,0 +1,3 @@
+Ionut.Tufan,ionuttufan04@gmail.com,Paro1,Male,0723759798,false,Informatics
+Alex.Tudor,alexandru11211@gmail.com,Alex2003,Male,0749970798,false,Informatics
+Alex.Bobe,alex@gmail.com,Alex2003,Male,0748949944,true,Computer Science
